@@ -1,0 +1,13 @@
+#HitchhikerButton {
+	background-color: red;
+
+	font: bold 40px "Times New Roman", "Serif";
+
+	color: white;
+
+	display: block;
+
+	align: center;
+
+	margin: auto;
+}
